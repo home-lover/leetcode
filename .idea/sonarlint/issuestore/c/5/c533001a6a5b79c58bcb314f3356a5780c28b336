@@ -1,0 +1,14 @@
+
+I
+java:S1068".Remove this unused "windowSize" private field.(¶¥€†˚ˇˇˇˇ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(‰ë˚Â¯ˇˇˇˇ
+=
+java:S2189""Add an end condition to this loop.(òÔàûˇˇˇˇˇ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(—Ä˛Ì
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Û„ü≈˙ˇˇˇˇ
+W
+java:S1126$"AReplace this if-then-else statement by a single return statement.(≤˚Üê
+>
+java:S1604"(Make this anonymous inner class a lambda(…„√Æ
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(‰†πÄ
